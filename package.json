@@ -1,0 +1,30 @@
+{
+  "name": "clase-13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.es6.mjs",
+    "serve": "nodemon server.es6.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "socket.io": "3.1.1"
+  },
+  "description": ""
+}

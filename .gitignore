@@ -1,0 +1,8 @@
+# Project exclude paths
+/data/files.js
+/data/message.js
+/data/product.js
+/node_modules/
+/routes/api.js
+/routes/web.js
+/server.js
